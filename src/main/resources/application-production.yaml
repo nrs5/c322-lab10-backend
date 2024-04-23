@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: postgres://spring2024_customer:Vkdspow0ZZTllv65w2sHKpZCKFEwD8j9@dpg-cojitu63e1ms73bbcngg-a.ohio-postgres.render.com/spring2024_database_djeo
-    username: spring2024_customer
-    password: Vkdspow0ZZTllv65w2sHKpZCKFEwD8j9
+    url: jdbc:postgresql://dpg-cogrurud3nmc73dsunn0-a.oregon-postgres.render.com:5432/ducks_7zj5
+    username: ducks_7zj5_user
+    password: UMmC0WcF8Joke8pNC9BiGV06fh8HPHQK
 
   jpa:
     hibernate:
